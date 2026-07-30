@@ -14,7 +14,7 @@ decision-support tools, with a particular interest in finance.
 
 | Project | Area | Key Methods | Status |
 |---|---|---|---|
-| [Kelly Criterion Applied to SPY](projects/01-kelly-criterion-spy/) | Financial & Risk Analytics | Kelly allocation, sensitivity analysis, performance and risk evaluation | Completed |
+| [Kelly Criterion Applied to SPY](projects/01-kelly-criterion-spy/kelly_criterion_spy.ipynb) | Financial & Risk Analytics | Kelly allocation, sensitivity analysis, performance and risk evaluation | Completed |
 
 ## Professional Background
 
