@@ -1,51 +1,50 @@
-![Luis Ordorica — Quantitative Finance Portfolio](assets/github-banner.png)
+![Luis Ordorica — Data Analytics & Finance Portfolio](assets/github-banner.png)
 
-# Quantitative Finance Portfolio
+# Data Analytics & Finance Portfolio
 
-Actuary transitioning into quantitative finance, with professional experience
-in energy markets, insurance, data analytics, and process automation.
+A collection of data analytics, business intelligence, and financial analysis
+projects developed using Python, SQL, Power BI, R, and Excel.
 
-I build research-driven projects that connect mathematical theory, financial
-intuition, and reproducible Python implementations.
+I have a background in Actuarial Science and professional experience in energy
+markets, insurance, data analytics, and process automation. I focus on
+transforming data into clear insights, reproducible analyses, and
+decision-support tools, with a particular interest in finance.
 
 ## Projects
 
-This portfolio is being developed alongside my structured training in
-quantitative finance. Each project focuses on understanding the theory,
-implementing it computationally, and interpreting its financial applications.
-
-| Project | Research Area | Core Methods | Status |
+| Project | Area | Key Methods | Status |
 |---|---|---|---|
-| [Single-Variable Calculus in Quantitative Finance](projects/01-single-variable-calculus/) | Mathematical Finance | Derivatives, sensitivity analysis, optimization | In Progress |
+| [Kelly Criterion Applied to SPY](projects/01-kelly-criterion-spy/) | Financial & Risk Analytics | Kelly allocation, sensitivity analysis, performance and risk evaluation | Completed |
 
-## Background
+## Professional Background
 
-My professional experience spans energy markets, insurance, and data analytics.
+I have professional experience in energy markets, insurance, data analytics,
+and process automation.
 
-At CFE Calificados, I worked with electricity-market and renewable-energy data,
-developing analytical and automated solutions using Python, SQL, Power BI, R,
-and Excel.
-
-Previously, I worked in life and health insurance on actuarial modeling,
-pricing analysis, and risk-related data analysis.
+At CFE Calificados, I developed analytical, reporting, and automated solutions
+for electricity-market and renewable-energy data. Previously, I supported
+actuarial modeling, pricing analysis, database management, and risk analysis
+in life and health insurance.
 
 ## Technical Toolkit
 
-- **Programming:** Python, SQL, R, VBA
-- **Quantitative computing:** NumPy, pandas, SciPy, statsmodels, scikit-learn
-- **Visualization:** Plotly, Matplotlib, Power BI
-- **Workflow:** Jupyter, Git, GitHub, Excel
+- **Programming and querying:** Python, SQL, R, VBA
+- **Data analysis:** pandas, NumPy, SciPy, Excel
+- **Business intelligence:** Power BI, DAX, KPI reporting
+- **Statistical modeling:** statsmodels, scikit-learn
+- **Visualization:** Plotly, Matplotlib
+- **Development workflow:** Jupyter, VS Code, Git, GitHub
 
-## Current Focus
+## Areas of Interest
 
-- Quantitative research and mathematical finance
-- Preparing for the AMIB Figura 3 certification
-- Portfolio analytics, risk, and asset pricing
+- Financial, portfolio, and risk analytics
+- Data analytics and business intelligence
+- Quantitative finance and systematic strategies
 - Energy and commodity markets
 
-## Author
+## Contact
 
-**Luis Ordorica**  
+**Luis Ordorica**
 
 - [LinkedIn](https://www.linkedin.com/in/luisordorica)
-- [GitHub](https://github.com/lordorica21)
+- [Email](mailto:lordorica8@gmail.com)
