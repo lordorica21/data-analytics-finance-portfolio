@@ -15,6 +15,7 @@ decision-support tools, with a particular interest in finance.
 | Project | Area | Key Methods | Status |
 |---|---|---|---|
 | [Kelly Criterion Applied to SPY](projects/01-kelly-criterion-spy/kelly_criterion_spy.ipynb) | Financial & Risk Analytics | Kelly allocation, sensitivity analysis, performance and risk evaluation | Completed |
+| [Mean-Variance Portfolio Optimization](projects\02-mean-variance-portfolio-optimization\portfolio_optimization.ipynb) | Portfolio Management | Asset Allocation, Sharpe Ratio, Portfolio Volatility | In Progress|
 
 ## Professional Background
 
